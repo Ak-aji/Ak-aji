@@ -6,7 +6,7 @@
 
 <hr />
 
-- 👨‍💻 Currently learning skills
+- 👨‍💻 Currently Learning Skills
 - 💻 Prior experience with **Web Development,Android Application** and **UI Design**
 - 👯 Open to collaboration on **any and all Open Source Projects**
 - ❓ Looking for help with **Android Application**
@@ -17,7 +17,7 @@
 
 <h2 align="center">Hash Tags</h2>
 <p align="center">
-<b>#<span style="transform: scale(-1, 1);">Engineer</span>#Web Development #Developer #Android Application #HTML #CSS #Bootstrap #Javascript #Basic-C #JavaScript #UI/UX Design #Photoshop #Illustrator #InDesign #Animate CC
+<b>#<span style="transform: scale(-1, 1);">Engineer</span> #Web Development #Developer #Android Application #HTML #CSS #Bootstrap #Javascript #Basic-C #JavaScript #UI/UX Design #Photoshop #Illustrator #InDesign #Animate CC
 <br /> #Time, #Law of Conservation of Energy
 </b>
 </p>
@@ -25,7 +25,7 @@
 <hr />
 
 <p>
-<a href="https://github.com/s-rajkumar">
+<a href="">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=s-rajkumar&layout=compact&theme=algolia&card_width=445&hide=html" width="403" />
 </a>
 </p>
