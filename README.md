@@ -11,7 +11,7 @@
 - 👯 Open to collaboration on **any and all Open Source Projects**
 - ❓ Looking for help with **Android Application**
 - 📫 Feel free to contact me **ajithkumar8067@gmail.com**
-- :link: <a href=https://s-rajkumar.github.io/ target="blank">Portfolio</a>
+- :link: <a href=https://ak-aji.github.io/ target="blank">Portfolio</a>
 
 <hr />
 
@@ -26,12 +26,12 @@
 
 <p>
 <a href="">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=s-rajkumar&layout=compact&theme=algolia&card_width=445&hide=html" width="403" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ak-aji&layout=compact&theme=algolia&card_width=445&hide=html" width="403" />
 </a>
 </p>
 
 <hr />
 
 <p align="center">
-<img src="https://profile-counter.glitch.me/s-rajkumar/count.svg" alt="visit_count" />
+<img src="https://profile-counter.glitch.me/ak-aji/count.svg" alt="visit_count" />
 </p>
