@@ -11,7 +11,7 @@
 - 👯 Open to collaboration on **any and all Open Source Projects**
 - ❓ Looking for help with **Android Application**
 - 📫 Feel free to contact me **ajithkumar8067@gmail.com**
-- :link: <a href=https://ak-aji.github.io/index.html<target="blank">Portfolio</a>
+- :link: <a href=https://ak-aji.github.io/ target="blank">Portfolio</a>
 
 <hr />
 
