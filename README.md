@@ -2,12 +2,12 @@
 
  **The passionate developer with a hunger to learn and create new things. Keenly interested in full stack developer.**
 
- **Looking for opportunities to hone my skills in Web application,Android Application.**
+ **Looking for opportunities to hone my skills in Web Application,Android Application.**
 
 <hr />
 
 - 👨‍💻 Currently Learning Skills
-- 💻 Prior experience with **Web Development,Android Application**
+- 💻 Prior experience with **Web Application,Android Application**
 - 👯 Open to collaboration on **any and all Open Source Projects**
 - ❓ Looking for help with **Android Application**
 - 📫 Feel free to contact me **ajithkumar8067@gmail.com**
