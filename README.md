@@ -1,13 +1,13 @@
 <h1 align="center">Hey there 👋 Ajith here</h1>
 
- **The passionate developer with a hunger to learn and create new things. Keenly interested in Web Development, UI Design.**
+ **The passionate developer with a hunger to learn and create new things. Keenly interested in full stack developer.**
 
- **Looking for opportunities to hone my skills in Web Development, UI Design.**
+ **Looking for opportunities to hone my skills in Web application,Android Application.**
 
 <hr />
 
 - 👨‍💻 Currently Learning Skills
-- 💻 Prior experience with **Web Development,Android Application** and **UI Design**
+- 💻 Prior experience with **Web Development,Android Application**
 - 👯 Open to collaboration on **any and all Open Source Projects**
 - ❓ Looking for help with **Android Application**
 - 📫 Feel free to contact me **ajithkumar8067@gmail.com**
@@ -17,7 +17,7 @@
 
 <h2 align="center">Hash Tags</h2>
 <p align="center">
-<b>#<span style="transform: scale(-1, 1);">Engineer</span> #Web Development #Developer #Android Application #HTML #CSS #Bootstrap #Javascript #Basic-C #JavaScript #UI/UX Design #Photoshop #Illustrator #InDesign #Animate CC
+<b>#<span style="transform: scale(-1, 1);">Engineer</span> #Web Development #Developer #Android Application #HTML #CSS #Bootstrap #Javascript #jquery #C# #.New #SQL
 <br /> #Time, #Law of Conservation of Energy
 </b>
 </p>
